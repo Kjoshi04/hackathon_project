@@ -2,3 +2,4 @@ streamlit
 firebase-admin
 folium
 streamlit-folium
+geopy
