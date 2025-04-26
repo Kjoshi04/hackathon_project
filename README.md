@@ -47,9 +47,9 @@ APIs:
 ✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation
 
 📽️ Demo & Deliverables
-Demo Video Link: https://youtu.be/uveVQaMBTEo
+Demo Video Link: https://youtu.be/g3p5Bk0Pb-o
 
-Pitch Deck / PPT Link: https://drive.google.com/file/d/1aRiWifPUulDXo_6CtovcFack5DggKoWH/view?usp=sharing
+Pitch Deck / PPT Link: https://drive.google.com/file/d/1ZCHhuAwMpvstNk2OJb59_2WNmEXFHXOn/view?usp=sharing
 
 ✅ Tasks & Bonus Checklist
 ✅ All members completed the mandatory task
