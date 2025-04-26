@@ -39,12 +39,12 @@ APIs:
 * SMTP (for email notifications)
 
 ## ✨ Key Features
-✅ Real-time Relief Request System – Submit and view emergency aid requests instantly
-✅ Volunteer Claim System – Volunteers can claim requests with their name, increasing transparency
-✅ Email Notifications – Sends auto-email to requesters when their request is claimed
-✅ Smart Filtering & Search – Filter requests by category, location, and urgency
-✅ Firebase Realtime Sync – Ensures all users see the latest data without refresh
-✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation
+✅ Real-time Relief Request System – Submit and view emergency aid requests instantly</br>
+✅ Volunteer Claim System – Volunteers can claim requests with their name, increasing transparency</br>
+✅ Email Notifications – Sends auto-email to requesters when their request is claimed</br>
+✅ Smart Filtering & Search – Filter requests by category, location, and urgency</br>
+✅ Firebase Realtime Sync – Ensures all users see the latest data without refresh</br>
+✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation</br>
 
 ## 📽️ Demo & Deliverables
 Demo Video Link: https://youtu.be/bLB3SUPoMzc
