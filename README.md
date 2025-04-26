@@ -17,12 +17,12 @@ ReliefLink solves this by creating a centralized, real-time digital platform whe
 * It ensures quick, accurate aid delivery, empowering both the providers and the recipients during emergencies.
 
 ## 🧠 Team & Approach
-Team Name: N/A
+### Team Name: N/A
 
-Team Members:
+### Team Members:
 * Kritika Joshi – Full Stack Developer
 
-## My Approach:
+### My Approach:
 * Chose this problem due to its real-world humanitarian impact
 * Focused on real-time visibility, minimal friction for field users, and robust coordination features
 * Pivots included replacing auto-location with address-based geocoding for greater accuracy in low-connectivity zones
@@ -46,15 +46,22 @@ APIs:
 ✅ Firebase Realtime Sync – Ensures all users see the latest data without refresh</br>
 ✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation</br>
 
+![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/bbebfd19-ffee-4c11-9676-3a1cf89e9db9)
+![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/2ccaa7ed-8303-43b9-b5fa-bec8444baf3c)
+![Screenshot 2025-04-25 002138](https://github.com/user-attachments/assets/934bade9-e053-4858-8a3f-165fc50c4fac)
+![Screenshot 2025-04-25 002223](https://github.com/user-attachments/assets/9030d516-aaf7-4b94-b665-b98d69bbb1a2)
+
+
+
 ## 📽️ Demo & Deliverables
 Demo Video Link: https://youtu.be/bLB3SUPoMzc
 
 Pitch Deck / PPT Link: https://drive.google.com/file/d/1xZjkHPdDuCEvDQd7FgwPHiiWmntAtGDm/view?usp=sharing
 
 ## ✅ Tasks & Bonus Checklist
-✅ All members completed the mandatory task
-✅ Bonus Task 1 – Shared badges and submitted form
-✅ Bonus Task 2 – Signed up for Sprint.dev
+✅ All members completed the mandatory task</br>
+✅ Bonus Task 1 – Shared badges and submitted form</br>
+✅ Bonus Task 2 – Signed up for Sprint.dev</br>
 
 ## 🧪 How to Run the Project
 Requirements:
@@ -73,15 +80,15 @@ cd hackathon_project
 pip install streamlit firebase-admin requests
 
 ## Run the app
-streamlit run temp1.py
+streamlit run temp1.py</br>
 Make sure you configure Firebase credentials and optionally an .env file for sensitive keys.
 
 ## 🧬 Future Scope
-📈 Map Integration to visualize aid locations
-🛡️ Role-based access for better data control (volunteer/admin/government)
-🌐 Offline mode using PWA or caching for field use in low-connectivity zones
-📲 Mobile version for on-the-go access
-🔔 Push notifications for real-time claim and delivery updates
+📈 Map Integration to visualize aid locations</br>
+🛡️ Role-based access for better data control (volunteer/admin/government)</br>
+🌐 Offline mode using PWA or caching for field use in low-connectivity zones</br>
+📲 Mobile version for on-the-go access</br>
+🔔 Push notifications for real-time claim and delivery updates</br>
 
 ## 📎 Resources / Credits
 * OpenStreetMap Nominatim API
@@ -91,7 +98,7 @@ Make sure you configure Firebase credentials and optionally an .env file for sen
 * Special thanks to mentors and organizers of the hackathon!
 
 ## 🏁 Final Words
-ReliefLink was built from the heart — for real people in real crisis. My journey included brainstorming late nights, overcoming bugs under pressure, and designing with empathy at the center.
+ReliefLink was built from the heart — for real people in real crisis. My journey included brainstorming late nights, overcoming bugs under pressure, and designing with empathy at the center.</br>
 I am proud to contribute a tool that could one day help save lives.
 
 Together, let's build tech that cares. ❤️
