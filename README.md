@@ -46,11 +46,10 @@ APIs:
 ✅ Firebase Realtime Sync – Ensures all users see the latest data without refresh</br>
 ✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation</br>
 
-![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/bbebfd19-ffee-4c11-9676-3a1cf89e9db9)
-![Screenshot 2025-04-25 002030](https://github.com/user-attachments/assets/913f873c-b5d5-43a6-93b1-974216ed566e)
-![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/2ccaa7ed-8303-43b9-b5fa-bec8444baf3c)
-![Screenshot 2025-04-25 002223](https://github.com/user-attachments/assets/9030d516-aaf7-4b94-b665-b98d69bbb1a2)
-
+![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/3839d799-ba55-4672-b1fa-0d517a102571)
+![Screenshot 2025-04-25 002030](https://github.com/user-attachments/assets/5c694790-a297-468f-b439-31f546aa95f5)
+![Screenshot 2025-04-25 002223](https://github.com/user-attachments/assets/2e0eb5ba-6a2d-4086-934f-404a18351562)
+![Screenshot 2025-04-25 002138](https://github.com/user-attachments/assets/a76656a3-4bbd-4e2f-bd09-b9cc8e309293)
 
 
 ## 📽️ Demo & Deliverables
