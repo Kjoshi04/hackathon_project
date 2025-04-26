@@ -47,8 +47,8 @@ APIs:
 ✅ Admin Dashboard – Manage requests, delete entries, and monitor the entire relief operation</br>
 
 ![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/bbebfd19-ffee-4c11-9676-3a1cf89e9db9)
+![Screenshot 2025-04-25 002030](https://github.com/user-attachments/assets/913f873c-b5d5-43a6-93b1-974216ed566e)
 ![Screenshot 2025-04-25 001753](https://github.com/user-attachments/assets/2ccaa7ed-8303-43b9-b5fa-bec8444baf3c)
-![Screenshot 2025-04-25 002138](https://github.com/user-attachments/assets/934bade9-e053-4858-8a3f-165fc50c4fac)
 ![Screenshot 2025-04-25 002223](https://github.com/user-attachments/assets/9030d516-aaf7-4b94-b665-b98d69bbb1a2)
 
 
